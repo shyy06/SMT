@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "7arZgA+jfV0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\XMICUser\\WorkBuddy\\2026-06-09-14-13-47\\SMT\\SMT.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://svn.geeran.cn:8000/nuget”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://svn.geeran.cn:8000/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}

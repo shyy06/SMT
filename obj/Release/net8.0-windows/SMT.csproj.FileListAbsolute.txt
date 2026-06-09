@@ -1,0 +1,14 @@
+C:\Users\XMICUser\WorkBuddy\2026-06-09-14-13-47\SMT\bin\Release\net8.0-windows\SMT.exe
+C:\Users\XMICUser\WorkBuddy\2026-06-09-14-13-47\SMT\bin\Release\net8.0-windows\SMT.deps.json
+C:\Users\XMICUser\WorkBuddy\2026-06-09-14-13-47\SMT\bin\Release\net8.0-windows\SMT.runtimeconfig.json
+C:\Users\XMICUser\WorkBuddy\2026-06-09-14-13-47\SMT\bin\Release\net8.0-windows\SMT.dll
+C:\Users\XMICUser\WorkBuddy\2026-06-09-14-13-47\SMT\bin\Release\net8.0-windows\SMT.pdb
+C:\Users\XMICUser\WorkBuddy\2026-06-09-14-13-47\SMT\obj\Release\net8.0-windows\SMT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XMICUser\WorkBuddy\2026-06-09-14-13-47\SMT\obj\Release\net8.0-windows\SMT.AssemblyInfoInputs.cache
+C:\Users\XMICUser\WorkBuddy\2026-06-09-14-13-47\SMT\obj\Release\net8.0-windows\SMT.AssemblyInfo.cs
+C:\Users\XMICUser\WorkBuddy\2026-06-09-14-13-47\SMT\obj\Release\net8.0-windows\SMT.csproj.CoreCompileInputs.cache
+C:\Users\XMICUser\WorkBuddy\2026-06-09-14-13-47\SMT\obj\Release\net8.0-windows\SMT.dll
+C:\Users\XMICUser\WorkBuddy\2026-06-09-14-13-47\SMT\obj\Release\net8.0-windows\refint\SMT.dll
+C:\Users\XMICUser\WorkBuddy\2026-06-09-14-13-47\SMT\obj\Release\net8.0-windows\SMT.pdb
+C:\Users\XMICUser\WorkBuddy\2026-06-09-14-13-47\SMT\obj\Release\net8.0-windows\SMT.genruntimeconfig.cache
+C:\Users\XMICUser\WorkBuddy\2026-06-09-14-13-47\SMT\obj\Release\net8.0-windows\ref\SMT.dll
