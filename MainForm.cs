@@ -113,8 +113,8 @@ public class MainForm : Form
     // ══════════════════════════════════════════════════════
     private void InitializeTimers()
     {
-        // Fetch prices every 5 seconds
-        _fetchTimer.Interval = 5000;
+        // Fetch prices every 1 second (1 QPS)
+        _fetchTimer.Interval = 1000;
         _fetchTimer.Tick += async (s, e) => await FetchPrices();
         _fetchTimer.Start();
 
